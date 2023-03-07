@@ -1,3 +1,3 @@
 - Hi, I’m Joseph Haenel.
 - I'm currently majoring in computer science.
-- You can reach me at josephhaenel@gmail.com
+- You can reach me at jhaenel@siue.edu
