@@ -1,3 +1,4 @@
 - Hi, I’m Joseph Haenel.
-- I'm currently majoring in computer science.
+- I'm currently a Senior at SIUE majoring in Computer Science.
+- I mostly use C++ and Python.
 - You can reach me at jhaenel@siue.edu
